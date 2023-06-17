@@ -14,7 +14,7 @@ Table of Contents
 -----
 
 ### What is this about?
-This project is the Java code created for the mandatory programming exercises (in mandatory exercises) and all the exercises done (in exercises) in the Java Fundamentals module at the FFHS (HS22). The Java exercises were written with IntelliJ. The exercises are just for completion and are complete chaos.
+This project is the Java code created for the mandatory programming exercises in the Java Fundamentals module at the FFHS (HS22). The Java exercises were written with IntelliJ. The Java code available is chaotic.
 
 ### Evaluation and grade
 Evaluation and grade unknown.
