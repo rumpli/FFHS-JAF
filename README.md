@@ -14,10 +14,10 @@ Table of Contents
 -----
 
 ### What is this about?
-This project is the Java code created for the mandatory programming exercises in the Java Fundamentals module at the FFHS (FS23). The Java exercises were written with IntelliJ.
+This project is the Java code created for the mandatory programming exercises (in mandatory exercises) and all the exercises done (in exercises) in the Java Fundamentals module at the FFHS (HS22). The Java exercises were written with IntelliJ. The exercises are just for completion and are complete chaos.
 
 ### Evaluation and grade
-tbd
+Evaluation and grade unknown.
 
 ### More FFHS projects
 
